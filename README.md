@@ -1,2 +1,1 @@
-# -
-小任库
+print("hello world")
